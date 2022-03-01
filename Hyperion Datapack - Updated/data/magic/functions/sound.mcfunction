@@ -1,0 +1,1 @@
+playsound entity.zombie_villager.cure master @p ~ ~ ~ 10 2
